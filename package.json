@@ -1,0 +1,19 @@
+{
+  "name": "omaicol",
+  "version": "1.0.0",
+  "description": "practicando",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freddy990/ogora2.git"
+  },
+  "author": "frdd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freddy990/ogora2/issues"
+  },
+  "homepage": "https://github.com/freddy990/ogora2#readme"
+}
